@@ -1,2 +1,2 @@
 # JavaScript-odev1
-JavaScript-odev1
+ www.patika.dev
